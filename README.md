@@ -4,12 +4,7 @@ Hey there! I'm glad you found your way to my GitHub profile. Allow me to introdu
 
 ## About Me 👋
 
-I am a passionate student developer currently pursuing a bachelor's degree in computer engineering. Programming has always intrigued me, and I find joy in exploring different technologies and solving complex problems through coding.
-
-## Skills and Expertise 🤖
-
-- **Programming Languages:** Python, Java, JavaScript, and C#
-- **UI/UX Design:** I have a keen interest in creating intuitive and visually appealing user interfaces. I believe that a well-designed user experience is crucial for the success of any software application.
+An undergraduate Computer Engineering student at Pamantasan ng Lungsod ng Maynila. An aspiring software developer, knowledgeable in different programming languages such as C++, C#, Java, and Python. Aside from that, I am knowledgeable in UI/UX Design. Able to work on various projects including web development, mobile development, and data science projects.
 
 ## Projects 📝
 
