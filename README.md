@@ -21,6 +21,6 @@ I have a knack for competitive programming and enjoy participating in coding com
 
 ## Get in Touch 📧
 
-I'm always open to collaboration, feedback, or just having a friendly chat about programming and technology. If you'd like to reach out to me, feel free to connect with me on LinkedIn linkedin.com/in/lmlgabriel/ or drop me an email at gabrielluismaverick@gmail.com.
+I'm always open to collaboration, feedback, or just having a friendly chat about programming and technology. If you'd like to reach out to me, feel free to connect with me on LinkedIn [linkedin.com/in/lmlgabriel/](https://www.linkedin.com/in/lmlgabriel/) or drop me an email at gabrielluismaverick@gmail.com.
 
 Thank you for visiting my GitHub profile, and I hope you find something interesting here. Happy coding!
