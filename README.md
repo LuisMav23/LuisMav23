@@ -1,10 +1,6 @@
-# Welcome to My GitHub Profile! 💻
+# Developer | UI/UX Designer 💻
 
-Hey there! I'm glad you found your way to my GitHub profile. Allow me to introduce myself and give you a brief overview of what you can expect to find here.
-
-## About Me 👋
-
-An undergraduate Computer Engineering student at Pamantasan ng Lungsod ng Maynila. An aspiring software developer, knowledgeable in different programming languages such as C++, C#, Java, and Python. Aside from that, I am knowledgeable in UI/UX Design. Able to work on various projects including web development, mobile development, and data science projects.
+I'm glad you found your way to my GitHub profile. Allow me to introduce myself, I am Luis Maverick an undergraduate Computer Engineering student. An aspiring software developer, knowledgeable in different programming languages such as C++, C#, Java, and Python. Aside from that, I am knowledgeable in UI/UX Design. Able to work on various projects including web development, mobile development, and data science projects.
 
 ## Projects 📝
 
