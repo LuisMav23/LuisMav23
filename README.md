@@ -4,8 +4,7 @@
   <img src="./assets/Banner.png" width="1000"/>
 </p>
 
-
-<h1 align="center">Technologies</h1>
+# Technologies 👨🏻‍💻
 <h3 align="center">Front-end Development</h3>
 <div align="center">
     <img width="60px" height="60px" src="./assets/html-5.png" alt="html-5 logo"/>
