@@ -1,5 +1,8 @@
 # Developer | Data Scientist | UI/UX Designer 💻
 
+<p align="center">
+  <img src="./assets/Banner.png" width="1000"/>
+</p>
 
 ## Projects 📝
 
