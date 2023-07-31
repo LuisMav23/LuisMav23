@@ -53,5 +53,4 @@ Thank you for visiting my GitHub profile, and I hope you find something interest
     <img style="width: 392px" src="https://github-readme-stats.vercel.app/api?username=LuisMav23&show_icons=true&theme=radical"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMav23&theme=radical&layout=compact&hide=Cython" />
   </div>
-  <img style="width: 96px;" src="https://komarev.com/ghpvc/?username=LuisMav23&color=0c1116" />
 </div>
