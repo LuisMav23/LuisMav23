@@ -1,6 +1,14 @@
 # Developer | Data Scientist | UI/UX Designer 💻
 
-I'm glad you found your way to my GitHub profile. Allow me to introduce myself, I am Luis Maverick an undergraduate Computer Engineering student. An aspiring software developer, knowledgeable in different programming languages such as C++, C#, Java, and Python. Aside from that, I am knowledgeable in UI/UX Design. Able to work on various projects including web development, mobile development, and data science projects.
+_________________/\\\\____________/\\\\_____________________________________________        
+ ___________/\\\_\/\\\\\\________/\\\\\\_______________________________/\\\__________       
+  ________/\\\//__\/\\\//\\\____/\\\//\\\______________________________\////\\\_______      
+   _____/\\\//_____\/\\\\///\\\/\\\/_\/\\\__/\\\\\\\\\_____/\\\____/\\\____\////\\\____     
+    __/\\\//________\/\\\__\///\\\/___\/\\\_\////////\\\___\//\\\__/\\\________\////\\\_    
+     _\////\\\_______\/\\\____\///_____\/\\\___/\\\\\\\\\\___\//\\\/\\\__________/\\\//__   
+      ____\////\\\____\/\\\_____________\/\\\__/\\\/////\\\____\//\\\\\________/\\\//_____  
+       _______\////\\\_\/\\\_____________\/\\\_\//\\\\\\\\/\\____\//\\\______/\\\//________ 
+        __________\///__\///______________\///___\////////\//______\///______\///___________
 
 ## Projects 📝
 
