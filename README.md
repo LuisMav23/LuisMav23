@@ -38,7 +38,7 @@
 
 ## How you doin?👋
 
-I am an undergraduate Computer Engineering student at Pamantasan ng Lungsod ng Maynila. Passionate about Data Science and Machine Learning, I am an active contributor to Data Science projects and an active leader in tech communities. I am also knowledgeable in Back-End Software Development and Database Management, I have experience building server-side RESTful APIs (Flask , Django, and Spring)and Database Architectures (Firebase, MongoDB, MySQL and SQLite). I have some experience in Front-End Software Development using React, Flutter, and QT. In addition, I am also interested in learning UI/UX principle, I have worked in numerous UI/UX design projects.
+I am an undergraduate **Computer Engineering** student at Pamantasan ng Lungsod ng Maynila. Passionate about **Data Science and Machine Learning**, I am an active contributor to Data Science projects and an active leader in tech communities. I am also knowledgeable in **Back-End Software Development** and **Database Management**, I have experience building server-side RESTful APIs (Flask , Django, and Spring)and Database Architectures (Firebase, MongoDB, MySQL and SQLite). I have some experience in **Front-End Software Development** using React, Flutter, and QT. In addition, I am also interested in learning UI/UX principle, I have worked in numerous **UI/UX design** projects.
 
 ## Get in Touch 📧
 
