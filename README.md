@@ -36,9 +36,9 @@
     <img width="60px" height="60px" src="./assets/jupyter.png" alt="jupyter logo"/>
 </div>
 
-## Competitive Programming and Hackathons 🏆
+## How you doin?👋
 
-I have a knack for competitive programming and enjoy participating in coding competitions. It's an exciting way to challenge myself, enhance my problem-solving skills, and learn from fellow programmers. Additionally, I find great inspiration and motivation in participating in hackathons, where I get to collaborate with talented individuals to create innovative solutions within a limited timeframe.
+I am an undergraduate Computer Engineering student at Pamantasan ng Lungsod ng Maynila. Passionate about Data Science and Machine Learning, I am an active contributor to Data Science projects and an active leader in tech communities. I am also knowledgeable in Back-End Software Development and Database Management, I have experience building server-side RESTful APIs (Flask , Django, and Spring)and Database Architectures (Firebase, MongoDB, MySQL and SQLite). I have some experience in Front-End Software Development using React, Flutter, and QT. In addition, I am also interested in learning UI/UX principle, I have worked in numerous UI/UX design projects.
 
 ## Get in Touch 📧
 
