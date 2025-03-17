@@ -46,12 +46,6 @@ I'm always open to collaboration, feedback, or just having a friendly chat about
 
 Thank you for visiting my GitHub profile, and I hope you find something interesting here. Happy coding!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisMav23/LuisMav23/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisMav23/LuisMav23/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuisMav23/LuisMav23/output/github-contribution-grid-snake.svg">
-</picture>
-
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%">
   <div style="display: flex; width: 100%; justify-content: center; gap: 8px">
     <img style="width: 392px" src="https://github-readme-stats.vercel.app/api?username=LuisMav23&show_icons=true&theme=radical"/>
