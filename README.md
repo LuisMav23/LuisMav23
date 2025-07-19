@@ -1,10 +1,6 @@
 # Software Engineer | Cloud & AI Practitioner 💻
 
-<p align="center">
-  <img src="./assets/Banner2.png" width="2000"/>
-</p>
-
-# Technologies 👨🏻‍💻
+## Technologies 👨🏻‍💻
 <h3 align="center">Front-end Development</h3>
 <div align="center">
     <img width="60px" height="60px" src="./assets/html-5.png" alt="html-5 logo"/>
