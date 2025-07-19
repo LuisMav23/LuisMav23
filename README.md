@@ -1,4 +1,4 @@
-# Developer | Data Scientist | UI/UX Designer 💻
+# Software Engineer | Cloud & AI Practitioner 💻
 
 <p align="center">
   <img src="./assets/Banner2.png" width="2000"/>
