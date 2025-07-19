@@ -34,7 +34,9 @@
 
 ## How you doin?👋
 
-I am an undergraduate **Computer Engineering** student at Pamantasan ng Lungsod ng Maynila. Passionate about **Data Science and Machine Learning**, I am an active contributor to Data Science projects and an active leader in tech communities. I am also knowledgeable in **Back-End Software Development** and **Database Management**, I have experience building server-side RESTful APIs (Flask , Django, and Spring)and Database Architectures (Firebase, MongoDB, MySQL and SQLite). I have some experience in **Front-End Software Development** using React, Flutter, and QT. In addition, I am also interested in learning UI/UX principle, I have worked in numerous **UI/UX design** projects.
+I am an undergraduate Computer Engineering student at Pamantasan ng Lungsod ng Maynila with a passion for Machine Learning and Cloud Infrastructure. As an AWS Certified Cloud Practitioner, I have experience building cloud-based applications and creating CRUD solutions using Flask, Django, and NestJS. I am also proficient in Front-End frameworks like React/Next.js and Svelte/SvelteKit, and adept at designing database architectures.
+
+Beyond technical expertise, I am an active leader in tech communities, serving as the Data Science Lead for Google Developer Student Clubs PLM and founding AWS Cloud Clubs Haribon, where I currently serve as Captain.
 
 ## Get in Touch 📧
 
